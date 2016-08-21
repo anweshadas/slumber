@@ -28,6 +28,7 @@ setup(
         open(os.path.join(base_dir, "CHANGELOG.rst"), "r").read()
     ]),
     url = "http://github.com/samgiles/slumber",
+    license = "BSD 2-clause",
     author = "Donald Stufft",
     author_email = "donald.stufft@gmail.com",
     maintainer = "Samuel Giles",
